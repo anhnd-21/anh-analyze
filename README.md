@@ -1,4 +1,4 @@
-# Improve products and services quality at Bank of America through analyzing financial customer complaints
+# Improve products and services quality at Bank of America by analyzing financial customer complaints
 
 # Overview:
 1. Project Name
@@ -8,17 +8,17 @@
 5. Implementation
 6. Dashboard
 7. Results and Findings
-8. Conlusion
+8. Conclusion
 9. Recommendations
 10. References
 
 # 1. Project Name:
 
-**Improve products and services quality at Bank of America through analyzing financial customer complaints**
+**Improve products and services quality at Bank of America by analyzing financial customer complaints**
 
 # 2. Summary:
 
-The project aims to build reports to track customer complaints and trends by each category. From there, make suggestions to improve the quality of products and services for the bank.
+The project aims to build report to track numbers and trends of customer complaints by each category. From there, make suggestions to improve the quality of products and services for the Bank.
 
 # 3. Data source:
 
@@ -29,7 +29,7 @@ Customer complaints data on financial products & services at Bank of America for
 # 4. Tools and analysis method:
 
 - Tools:
-  * Excel: Explore Data
+  * Excel: Exploring Data
   * Power BI: Creating Dashboard
 - Analysis method: Descriptive analytics – using historical data to identify trends
 
@@ -48,14 +48,14 @@ https://github.com/user-attachments/assets/3e5ed9af-dd54-4e28-9168-58aca15a5df3
 # 7. Results and Findings
 
 - The number of **customer complaints tends to increase over the years**.
-- In the entire period from 2017 to 2023, **July is the month with the most complaints**, up to nearly 6,500 complaints (accounting for more than 10% of the total number of complaints for the whole period).
+- In the entire period from 2017 to 2023, **July tends to receive the most complaints**, up to nearly 6,500 complaints (accounting for more than 10% of the total number of complaints for the whole period).
 - **Checking or Savings accounts** are the products that receive the most complaints from customers, followed by credit cards.
 - **Managing an account** is the **most common issue** customer faced and all complaints about this issue come from customers using the checking or saving account product. According to research, customers often complaints that funds were taken from their accounts through **unauthorized or fraudulent transactions**.
-- Customers complaint the most via **Website** (accounting for more than 70%).
+- Customers complain the most via **Website** (accounting for more than 70%).
 - The Bank **resolves complaints mainly with explanations** (accounting for more than 65%).
 - The bank's **on-time complaint response rate was high**, recording over 93% for the entire period.
 
-# 8. Conlusion
+# 8. Conclusion
 
 - Complaints about products and services at Bank of America tend to increase over the years, with the Checking or Saving account product having the most dissatisfactions. The problem that most consumers encounter is unauthorized transactions.
 
