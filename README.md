@@ -40,10 +40,10 @@ Customer complaints data on financial products & services at Bank of America for
 - Data visualization: Create a dashboard to track the number of financial complaints over the year with the following categories: complaints by month, complaints by product, complaints by issue, complaints by media, complaints response category and timely response rate
 
 # 6. Dashboard:
-![](Dashboard_picture.png)
+![](Dashboard_picture_update.png)
 
 ## Dashboard video
-https://github.com/gulshang7/Financial-Consumer-Complaints-Data-Analysis-Using-Tableau-Dashboard/assets/175302405/f7994524-4186-4dd6-862e-0b60acb1ae81
+https://github.com/user-attachments/assets/3e5ed9af-dd54-4e28-9168-58aca15a5df3
 
 # 7. Results and Findings
 
